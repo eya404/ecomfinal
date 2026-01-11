@@ -30,7 +30,8 @@ Detailed bill with line items and totals.
 ### Eureka Dashboard – `http://localhost:8761`
 Service discovery status page.
 
-<img width="1881" height="928" alt="image" src="https://github.com/user-attachments/assets/414e17d8-8bba-4a3d-a17f-47f6208ae263" />
+<img width="1821" height="815" alt="image" src="https://github.com/user-attachments/assets/2c7a87b8-f83d-4870-9ee3-bbc0afddcca5" />
+
 
 ### REST APIs via Gateway
 - Customers – `http://localhost:8888/customer-service/api/customers`
