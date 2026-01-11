@@ -20,7 +20,7 @@ Customer directory .
 ### Orders Timeline – `http://localhost:4200/orders/<customerId>`
 Timeline of bills for a given customer.
 
-<img width="1882" height="821" alt="image" src="https://github.com/user-attachments/assets/47677033-08d2-429a-b316-b6cd6f0dd4f9" />
+<img width="1792" height="702" alt="image" src="https://github.com/user-attachments/assets/4e466517-322f-4274-829d-bddadedbf6eb" />
 
 ### Order Details – `http://localhost:4200/order-details/<billId>`
 Detailed bill with line items and totals.
