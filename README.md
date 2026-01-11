@@ -40,11 +40,11 @@ Service discovery status page.
 
 - Inventory – `http://localhost:8888/inventory-service/api/products`
 
-<img width="1327" height="958" alt="image" src="https://github.com/user-attachments/assets/f85b5bfe-1e3f-4998-900b-7529f7186101" />
+<img width="1210" height="838" alt="image" src="https://github.com/user-attachments/assets/9a2af456-e627-4303-a522-d3bba1babfd8" />
 
 - Billing – `http://localhost:8888/billing-service/api/bills`
 
-<img width="1226" height="964" alt="image" src="https://github.com/user-attachments/assets/55be6d93-6ac4-4c94-a1b6-efd1e8957c71" />
+<img width="1158" height="859" alt="image" src="https://github.com/user-attachments/assets/af5988c5-bd27-48ff-aa2e-d24f943a8de4" />
 
 ---
 
