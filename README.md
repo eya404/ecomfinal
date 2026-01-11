@@ -8,7 +8,8 @@
 ### Products – `http://localhost:4200/products`
 Product catalog .
 
-<img width="1887" height="851" alt="image" src="https://github.com/user-attachments/assets/9a41cd91-b24c-4660-8332-991f4e9ec6b8" />
+<img width="1810" height="742" alt="image" src="https://github.com/user-attachments/assets/2a66ce17-5070-4d98-8b91-e21955d94440" />
+
 
 
 ### Customers – `http://localhost:4200/customers`
