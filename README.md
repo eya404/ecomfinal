@@ -15,7 +15,7 @@ Product catalog .
 ### Customers – `http://localhost:4200/customers`
 Customer directory .
 
-<img width="1872" height="886" alt="image" src="https://github.com/user-attachments/assets/e2125ee4-c1fa-433e-accd-1e42a7316ca9" />
+<img width="801" height="328" alt="image" src="https://github.com/user-attachments/assets/4664014c-df18-4fc4-bc69-e1393683170a" />
 
 ### Orders Timeline – `http://localhost:4200/orders/<customerId>`
 Timeline of bills for a given customer.
