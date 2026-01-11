@@ -36,7 +36,7 @@ Service discovery status page.
 ### REST APIs via Gateway
 - Customers – `http://localhost:8888/customer-service/api/customers`
 
-<img width="1446" height="967" alt="image" src="https://github.com/user-attachments/assets/451832c0-8560-4280-8a2c-639d8a448e7c" />
+<img width="1482" height="879" alt="image" src="https://github.com/user-attachments/assets/044c3239-9b35-4609-8bd7-7fa4558aceb5" />
 
 - Inventory – `http://localhost:8888/inventory-service/api/products`
 
